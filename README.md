@@ -53,5 +53,3 @@
 <hr/>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=kshanxs&theme=dracula&title=-Stars,-Issues,-Reviews)
-
-![visit count](https://visitcount.itsvg.in/api?id=kshanxs&icon=7&color=5)
