@@ -51,5 +51,3 @@
 </div>
 <br/>
 <hr/>
-
-![trophy](https://github-profile-trophy.vercel.app/?username=kshanxs&theme=dracula&title=-Stars,-Issues,-Reviews)
