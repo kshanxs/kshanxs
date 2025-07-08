@@ -6,29 +6,29 @@
 
 <div align="center">
     <h3 style="position: relative; right: -20px;">
-        <img src="resources/sonic.gif" height="4%" width="4%" /> Avidly learning and growing
-        <img src="resources/pikachu.gif" height="5%" width="5%" />
+        <img src="resources/sonic.gif" height="4%" width="4%" alt="Sonic" /> Avidly learning and growing
+        <img src="resources/pikachu.gif" height="5%" width="5%" alt="Pikachu" />
     </h3>
 
 🔥 I'm dedicating time to level up myself 🔥
 
 🌱 And diving into **TypeScript, Docker,** and more right now! 🌊
 
-✨ Crafting digital magic 🪄, turning caffeine ☕️ into clean & powerful code </>
+✨ Crafting digital magic 🪄, turning caffeine ☕️ into clean & powerful code 💻
 
 🪄 Fun fact: The first computer bug 🐛 was an actual bug, a moth 🦋 found in a Harvard Mark II computer in 1947, which caused a malfunction. This is how the term "debugging" originated!
 
-💬 Curious about **Python 🐍, React...** or anything else? Ask away [here](https://github.com/kshanxs/kshanxs/issues)! 📨
+💬 Curious about **Python 🐍, React...** or anything else? Ask away [on my GitHub issues page](https://github.com/kshanxs/kshanxs/issues)! 📨
 </div>
 
 <hr/>
 <h2 align="center">
-    <img src="resources/ace.gif" height="15%" width="15%" />Languages-Frameworks & Tools<img src="resources/itachi.gif" height="7%" width="7%" />
+    <img src="resources/ace.gif" height="15%" width="15%" alt="Ace" /> Languages-Frameworks & Tools <img src="resources/itachi.gif" height="7%" width="7%" alt="Itachi" />
 </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,ts,nodejs,react,tailwind" />
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,nextjs,vercel,mongodb,docker,anaconda,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,ts,nodejs,react,tailwind" alt="Programming languages and frameworks" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,nextjs,vercel,mongodb,docker,anaconda,mysql" alt="Development tools and platforms" /><br>
 </div>
 <hr>
 
@@ -39,8 +39,8 @@
 
 <hr/>
 <h2 align="center" style="position: relative; left: -20px;">
-    <img src="resources/naruto_rage.gif" height="12%" width="12%" style="margin-bottom: -7px;" />
-    Code 次元 (Jigen)<img src="resources/goku.gif" height="6%" width="6%" />
+    <img src="resources/naruto_rage.gif" height="12%" width="12%" style="margin-bottom: -7px;" alt="Naruto" />
+    Code 次元 (Jigen) <img src="resources/goku.gif" height="6%" width="6%" alt="Goku" />
 </h2>
 <br>
 <div align="center">
