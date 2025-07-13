@@ -25,7 +25,7 @@
 
 <hr/>
 <h2 align="center">
-    <img src="resources/ace.gif" height="100" width="100" alt="Ace" /> Languages, Frameworks & Tools <img src="resources/itachi.gif" height="70" width="70" alt="Itachi" />
+    <img src="resources/ace.gif" height="130" width="130" alt="Ace" /> Languages, Frameworks & Tools <img src="resources/itachi.gif" height="70" width="70" alt="Itachi" />
 </h2>
 <br/>
 <div align="center">
@@ -41,8 +41,8 @@
 
 <hr/>
 <h2 align="center" style="position: relative; left: -20px;">
-    <img src="resources/naruto_rage.gif" height="80" width="80" style="margin-bottom: -7px;" alt="Naruto" />
-    Code 次元 (Jigen) <img src="resources/goku.gif" height="40" width="40" alt="Goku" />
+    <img src="resources/naruto_rage.gif" height="100" width="80" style="margin-bottom: -7px;" alt="Naruto" />
+    Code 次元 (Jigen) <img src="resources/goku.gif" height="60" width="50" alt="Goku" />
 </h2>
 <br>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
