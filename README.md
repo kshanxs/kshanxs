@@ -12,20 +12,20 @@
 </div>
 
 <div align="center">
-  🔥 I'm dedicating time to level up myself 🔥
+  🔥 I'm dedicating time to level up myself, like a wizard mastering spells and a hitman perfecting his craft. 🔥
 
   🌱 And diving into **TypeScript, Docker,** and more right now! 🌊
 
-  ✨ Crafting digital magic 🪄, turning caffeine ☕️ into clean & powerful code 💻
+  ✨ Crafting digital magic 🪄, turning caffeine ☕️ into clean & powerful code 💻, as precise as a Baba Yaga's aim.
 
   🪄 Fun fact: The first computer bug 🐛 was an actual bug, a moth 🦋 found in a Harvard Mark II computer in 1947, which caused a malfunction. This is how the term "debugging" originated!
 
-  💬 Curious about **Python 🐍, React...** or anything else? Ask away [on my GitHub issues page](https://github.com/kshanxs/kshanxs/issues)! 📨
+  💬 Curious about **Python 🐍, React...** or anything else? Send an owl 🦉 [to my GitHub issues page](https://github.com/kshanxs/kshanxs/issues)! 📨
 </div>
 
 <hr/>
 <h2 align="center">
-    <img src="resources/ace.gif" height="130" width="130" alt="Ace" /> Languages, Frameworks & Tools <img src="resources/itachi.gif" height="70" width="70" alt="Itachi" />
+    <img src="resources/ace.gif" height="100" width="100" alt="Ace" /> Dev Spellbook <img src="resources/itachi.gif" height="70" width="70" alt="Itachi" />
 </h2>
 <br/>
 <div align="center">
@@ -41,8 +41,8 @@
 
 <hr/>
 <h2 align="center" style="position: relative; left: -20px;">
-    <img src="resources/naruto_rage.gif" height="100" width="80" style="margin-bottom: -7px;" alt="Naruto" />
-    Code 次元 (Jigen) <img src="resources/goku.gif" height="60" width="50" alt="Goku" />
+    <img src="resources/naruto_rage.gif" height="80" width="80" style="margin-bottom: -7px;" alt="Naruto" />
+    Code 次元 (Jigen) <img src="resources/goku.gif" height="40" width="40" alt="Goku" />
 </h2>
 <br>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
