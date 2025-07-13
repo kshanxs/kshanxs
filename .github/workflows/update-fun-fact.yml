@@ -1,0 +1,38 @@
+name: Update Fun Fact
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Runs every 6 hours
+  workflow_dispatch: # Allows manual triggering of the workflow
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Read fun facts
+      id: read-facts
+      run: |
+        echo "Reading fun facts from fun_facts.txt..."
+        FACTS=($(cat fun_facts.txt))
+        INDEX=$((RANDOM % ${#FACTS[@]}))
+        SELECTED_FACT=${FACTS[$INDEX]}
+        echo "::set-output name=fact::$SELECTED_FACT"
+
+    - name: Update README.md
+      run: |
+        echo "Updating README.md with the new fun fact..."
+        sed -i "/🪄 Fun fact:/c\🪄 Fun fact: ${{ steps.read-facts.outputs.fact }}" README.md
+
+    - name: Commit and push changes
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add README.md
+        git commit -m "Update fun fact"
+        git push
