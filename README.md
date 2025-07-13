@@ -23,12 +23,12 @@
 
 <hr/>
 <h2 align="center">
-    <img src="resources/ace.gif" height="15%" width="15%" alt="Ace" /> Languages-Frameworks & Tools <img src="resources/itachi.gif" height="7%" width="7%" alt="Itachi" />
+    <img src="resources/ace.gif" height="15%" width="15%" alt="Ace" /> Languages, Frameworks & Tools <img src="resources/itachi.gif" height="7%" width="7%" alt="Itachi" />
 </h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,ts,nodejs,react,tailwind" alt="Programming languages and frameworks" />
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,nextjs,vercel,mongodb,docker,anaconda,mysql" alt="Development tools and platforms" /><br>
+    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,ts,nodejs,react,tailwind,vscode,git,github,nextjs,vercel,mongodb,docker,anaconda,mysql&perline=9" alt="Programming languages and frameworks" />
+
 </div>
 <hr>
 
@@ -43,10 +43,9 @@
     Code 次元 (Jigen) <img src="resources/goku.gif" height="6%" width="6%" alt="Goku" />
 </h2>
 <br>
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <img width="390" src="https://github-readme-stats-shubhanshu-shuklas-projects.vercel.app/api?username=kshanxs&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-    <br/>
-    <img width="325" align="center" src="https://github-readme-stats-shubhanshu-shuklas-projects.vercel.app/api/top-langs/?username=kshanxs&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <img width="325" src="https://github-readme-stats-shubhanshu-shuklas-projects.vercel.app/api/top-langs/?username=kshanxs&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <br/>
 <hr/>
