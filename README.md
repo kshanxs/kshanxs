@@ -41,7 +41,7 @@
 <hr>
 
 <div align="center">
-  <h2>🍎 Git Gourmet 🍏</h2>
+  <h2>🍷 Basilisk's Feast 🐍</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kshanxs/kshanxs/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
