@@ -23,6 +23,12 @@
   💬 Curious about **Python 🐍, React...** or anything else? Send an owl 🦉 [to my GitHub issues page](https://github.com/kshanxs/kshanxs/issues)! 📨
 </div>
 
+<div align="center">
+  <blockquote>
+    "Imagination is more important than knowledge." - Albert Einstein
+  </blockquote>
+</div>
+
 <hr/>
 <h2 align="center">
     <img src="resources/ace.gif" height="100" width="100" alt="Ace" /> Dev Spellbook <img src="resources/itachi.gif" height="70" width="70" alt="Itachi" />
