@@ -6,24 +6,26 @@
 
 <div align="center">
     <h3 style="position: relative; right: -20px;">
-        <img src="resources/sonic.gif" height="4%" width="4%" alt="Sonic" /> Avidly learning and growing
-        <img src="resources/pikachu.gif" height="5%" width="5%" alt="Pikachu" />
+        <img src="resources/sonic.gif" height="40" width="33" alt="Sonic" /> Avidly learning and growing
+        <img src="resources/pikachu.gif" height="40" width="40" alt="Pikachu" />
     </h3>
+</div>
 
-🔥 I'm dedicating time to level up myself 🔥
+<div align="center">
+  🔥 I'm dedicating time to level up myself 🔥
 
-🌱 And diving into **TypeScript, Docker,** and more right now! 🌊
+  🌱 And diving into **TypeScript, Docker,** and more right now! 🌊
 
-✨ Crafting digital magic 🪄, turning caffeine ☕️ into clean & powerful code 💻
+  ✨ Crafting digital magic 🪄, turning caffeine ☕️ into clean & powerful code 💻
 
-🪄 Fun fact: The first computer bug 🐛 was an actual bug, a moth 🦋 found in a Harvard Mark II computer in 1947, which caused a malfunction. This is how the term "debugging" originated!
+  🪄 Fun fact: The first computer bug 🐛 was an actual bug, a moth 🦋 found in a Harvard Mark II computer in 1947, which caused a malfunction. This is how the term "debugging" originated!
 
-💬 Curious about **Python 🐍, React...** or anything else? Ask away [on my GitHub issues page](https://github.com/kshanxs/kshanxs/issues)! 📨
+  💬 Curious about **Python 🐍, React...** or anything else? Ask away [on my GitHub issues page](https://github.com/kshanxs/kshanxs/issues)! 📨
 </div>
 
 <hr/>
 <h2 align="center">
-    <img src="resources/ace.gif" height="15%" width="15%" alt="Ace" /> Languages, Frameworks & Tools <img src="resources/itachi.gif" height="7%" width="7%" alt="Itachi" />
+    <img src="resources/ace.gif" height="100" width="100" alt="Ace" /> Languages, Frameworks & Tools <img src="resources/itachi.gif" height="70" width="70" alt="Itachi" />
 </h2>
 <br/>
 <div align="center">
@@ -39,8 +41,8 @@
 
 <hr/>
 <h2 align="center" style="position: relative; left: -20px;">
-    <img src="resources/naruto_rage.gif" height="12%" width="12%" style="margin-bottom: -7px;" alt="Naruto" />
-    Code 次元 (Jigen) <img src="resources/goku.gif" height="6%" width="6%" alt="Goku" />
+    <img src="resources/naruto_rage.gif" height="80" width="80" style="margin-bottom: -7px;" alt="Naruto" />
+    Code 次元 (Jigen) <img src="resources/goku.gif" height="40" width="40" alt="Goku" />
 </h2>
 <br>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
