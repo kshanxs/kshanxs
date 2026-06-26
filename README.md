@@ -17,21 +17,17 @@
     <h3>
         <!-- Sized consistently to 40x40 for symmetry -->
         <img src="resources/sonic.gif" height="40" width="40" style="vertical-align: middle; margin-right: 5px;" alt="Sonic" />
-        <span style="vertical-align: middle;">Avidly learning and growing</span>
+        <span style="vertical-align: middle;">Writing codes and stories</span>
         <img src="resources/pikachu.gif" height="40" width="40" style="vertical-align: middle; margin-left: 5px;" alt="Pikachu" />
     </h3>
 </div>
 
 <div align="center">
-  🔥 I'm dedicating time to level up myself, like a wizard mastering spells and a hitman perfecting his craft. 🔥
+  Hey there! I write things — sometimes it's stories and fiction, other times it's **Python** scripts. Right now, I'm also learning my way around **Rust**! 🦀
   <br><br>
-  🌱 And diving into **TypeScript, Docker,** and more right now! 🌊
+  When I'm not typing away at code or drafts, I'm usually lost in a video game 🎮, re-watching my favorite anime 🍿, or waiting for my Hogwarts acceptance letter ⚡.
   <br><br>
-  ✨ Crafting digital magic 🪄, turning caffeine ☕️ into clean & powerful code 💻, as precise as a Baba Yaga's aim.
-  <br><br>
-  🪄 Fun fact: The first computer bug 🐛 was an actual bug, a moth 🦋 found in a Harvard Mark II computer in 1947, which caused a malfunction. This is how the term "debugging" originated!
-  <br><br>
-  💬 Curious about **Python 🐍, React...** or anything else? Send an owl 🦉 [to my GitHub issues page](https://github.com/kshanxs/kshanxs/issues)! 📨
+  💬 Want to discuss writing tips, anime recommendations, or just talk tech? Send an owl 🦉 [to my GitHub issues page](https://github.com/kshanxs/kshanxs/issues)! 📨
 </div>
 
 <br>
