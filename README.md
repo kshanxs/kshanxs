@@ -25,7 +25,7 @@
 <div align="center">
   Hey there! I write things — sometimes it's stories and fiction, other times it's **Python** scripts. Right now, I'm also learning my way around **Rust**! 🦀
   <br><br>
-  When I'm not typing away at code or drafts, I'm usually lost in a video game 🎮, re-watching my favorite anime 🍿, or waiting for my Hogwarts acceptance letter ⚡.
+  When I'm not typing away at code or drafts, I'm usually lost in a video game 🎮, catching up on anime 🍿, re-reading Harry Potter ⚡, or re-watching John Wick 🕶️.
   <br><br>
   💬 Want to discuss writing tips, anime recommendations, or just talk tech? Send an owl 🦉 [to my GitHub issues page](https://github.com/kshanxs/kshanxs/issues)! 📨
 </div>
