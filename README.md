@@ -1,3 +1,6 @@
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
 <h1 align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
         <picture>
@@ -54,11 +57,9 @@
 
 <div align="center">
   <h2>🍷 Basilisk's Feast 🐍</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kshanxs/kshanxs/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kshanxs/kshanxs/output/github-contribution-grid-snake.svg" />
-    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kshanxs/kshanxs/output/github-contribution-grid-snake.svg" />
-  </picture>
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/kshanxs/kshanxs/snake-output/snake.svg" alt="Snake animation" />
+
 </div>
 <hr/>
 
@@ -69,31 +70,15 @@
     <img src="resources/goku.gif" height="60" width="60" style="vertical-align: middle;" alt="Goku" />
 </h2>
 <br>
-
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <!-- Stats Cards: Theme-aware dark/light switching -->
-    <div data-importer="stats" align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-      <!-- Stats Graph -->
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-shubhanshu-shuklas-projects.vercel.app/api?username=kshanxs&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-shubhanshu-shuklas-projects.vercel.app/api?username=kshanxs&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10" />
-        <img src="https://github-readme-stats-shubhanshu-shuklas-projects.vercel.app/api?username=kshanxs&count_private=true&show_icons=true&theme=default&rank_icon=github&border_radius=10" height="150" alt="stats graph" />
-      </picture>
-
-      <!-- Top Languages Graph -->
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-shubhanshu-shuklas-projects.vercel.app/api/top-langs/?username=kshanxs&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-shubhanshu-shuklas-projects.vercel.app/api/top-langs/?username=kshanxs&hide=HTML&langs_count=8&layout=compact&theme=default&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" />
-        <img src="https://github-readme-stats-shubhanshu-shuklas-projects.vercel.app/api/top-langs/?username=kshanxs&hide=HTML&langs_count=8&layout=compact&theme=default&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" height="150" alt="languages graph" />
-      </picture>
-
-      <!-- Streak Graph -->
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=kshanxs&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" />
-        <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=kshanxs&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" />
-        <img src="https://streak-stats.demolab.com?user=kshanxs&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" height="150" alt="streak graph" />
-      </picture>
-    </div>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kshanxs/kshanxs/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kshanxs/kshanxs/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/kshanxs/kshanxs/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
+</picture>
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/kshanxs/kshanxs/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/kshanxs/kshanxs/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=kshanxs&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 <br/>
 <hr/>
