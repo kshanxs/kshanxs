@@ -13,21 +13,14 @@
     </a>
 </h1>
 
-<div align="center">
-    <h3>
-        <!-- Sized consistently to 40x40 for symmetry -->
-        <img src="resources/sonic.gif" height="40" width="40" style="vertical-align: middle; margin-right: 5px;" alt="Sonic" />
-        <span style="vertical-align: middle;">Writing codes and stories</span>
-        <img src="resources/pikachu.gif" height="40" width="40" style="vertical-align: middle; margin-left: 5px;" alt="Pikachu" />
-    </h3>
-</div>
+<h3 align="center">Writing codes and stories</h3>
 
 <div align="center">
-  Hey there! I write things — sometimes it's stories and fiction, other times it's **Python** scripts. Right now, I'm also learning my way around **Rust**! 🦀
+  Hey there! I write things — sometimes it's stories and fiction, other times it's Python scripts 🐍. Right now, I'm also learning my way around Rust! 🦀
   <br><br>
   When I'm not typing away at code or drafts, I'm usually lost in a video game 🎮, catching up on anime 🍿, re-reading Harry Potter ⚡, or re-watching John Wick 🕶️.
   <br><br>
-  💬 Want to discuss writing tips, anime recommendations, or just talk tech? Send an owl 🦉 [to my GitHub issues page](https://github.com/kshanxs/kshanxs/issues)! 📨
+  💬 Want to discuss writing tips, anime recommendations, or just talk tech? Send an owl 🦉 <a href="https://github.com/kshanxs/kshanxs/issues">to my GitHub issues page</a>! 📨
 </div>
 
 <br>
@@ -40,9 +33,9 @@
 
 <h2 align="center">
     <!-- Balanced height/width to 80x80 and vertically aligned -->
-    <img src="resources/ace.gif" height="80" width="80" style="vertical-align: middle;" alt="Ace" />
+    <img src="resources/ace.gif" height="90" width="80" style="vertical-align: middle;" alt="Ace" />
     <span style="vertical-align: middle; margin: 0 10px;">Dev Spellbook</span>
-    <img src="resources/itachi.gif" height="80" width="80" style="vertical-align: middle;" alt="Itachi" />
+    <img src="resources/itachi.gif" height="65" width="50" style="vertical-align: middle;" alt="Itachi" />
 </h2>
 <br/>
 
@@ -52,7 +45,11 @@
 <hr>
 
 <div align="center">
-  <h2>🎮 Arcade 🎮</h2>
+  <h2>
+    <img src="resources/sonic.gif" height="40" width="40" style="vertical-align: middle;" alt="Sonic" />
+    <span style="vertical-align: middle; margin: 0 10px;">Arcade</span>
+    <img src="resources/pikachu.gif" height="40" width="40" style="vertical-align: middle;" alt="Pikachu" />
+  </h2>
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kshanxs/kshanxs/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kshanxs/kshanxs/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
@@ -65,7 +62,7 @@
 <h2 align="center">
     <!-- Sized symmetrically to 60x60 -->
     <img src="resources/naruto_rage.gif" height="60" width="60" style="vertical-align: middle;" alt="Naruto" />
-    <span style="vertical-align: middle; margin: 0 10px;">Code 次元 (Jigen)</span>
+    <span style="vertical-align: middle; margin: 0 10px;">私の道場 (My Dojo)</span>
     <img src="resources/goku.gif" height="60" width="60" style="vertical-align: middle;" alt="Goku" />
 </h2>
 <br>
