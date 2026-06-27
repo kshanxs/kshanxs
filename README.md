@@ -87,7 +87,7 @@
       <img src="https://skillicons.dev/icons?i=apple,bash,cpp,py,fastapi,anaconda,rust,bun,nodejs,npm,react,ts,vite,nextjs,vercel,git,github,githubactions,supabase,postgres,mongodb,mysql,docker,ubuntu,postman,cloudflare,md&perline=9" alt="Programming languages and frameworks" />
     </td>
     <td width="140" align="center" valign="middle">
-      <img src="https://dojo-proxy-three.vercel.app/api/dojo?type=wizard" width="120" alt="Wizard Professor" />
+      <img src="https://dojo-proxy-three.vercel.app/api/dojo?type=wizard&v=2" width="120" alt="Wizard Professor" />
     </td>
   </tr>
 </table>
