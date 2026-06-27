@@ -1,5 +1,0 @@
-The first computer bug 🐛 was an actual bug, a moth 🦋 found in a Harvard Mark II computer in 1947.
-The first email ✉️ was sent by Ray Tomlinson to himself in 1971.
-The first website 🌐 ever created is still online and was made by Tim Berners-Lee in 1991. (Visit it [here](http://info.cern.ch))
-The first hard drive 💾 could only store 5MB of data and weighed over a ton.
-The first programming language 📜 was called "Plankalkül," created by Konrad Zuse in 1948.
