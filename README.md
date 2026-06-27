@@ -21,7 +21,7 @@
       <img src="resources/new/duck_fire.gif" width="105" alt="Duck Fire" />
     </td>
     <td valign="middle">
-      I write things — sometimes it's stories and fiction, other times it's Python scripts 🐍. Right now, I'm also learning my way around Rust! 🦀
+      I write things — sometimes it's stories and fiction, other times it's Python scripts 🐍. Right now, I'm diving deeper into open-source work and learning my way around Rust! 🦀
     </td>
   </tr>
 </table>
@@ -43,7 +43,7 @@
 <table border="0">
   <tr>
     <td valign="middle">
-      💬 Want to discuss writing tips, anime recommendations, or just talk tech? Send an owl 🦉 <a href="https://github.com/kshanxs/kshanxs/issues">to my GitHub issues page</a>! 📨
+      💬 Want to discuss writing tips, anime recommendations, or collaborate on tech projects? Feel free to send an owl 🦉 over <a href="https://github.com/kshanxs/kshanxs/issues">to my GitHub issues page</a>! 📨
     </td>
     <td width="120" align="center" valign="middle">
       <img src="resources/new/cat_meme.gif" width="105" alt="Cat Meme" />
@@ -60,7 +60,7 @@
 <hr/>
 
 <h2 align="center">
-    <img src="resources/new/luffy.gif" height="65" width="65" style="vertical-align: middle;" alt="Luffy" />
+    <img src="resources/new/luffy.gif" height="75" width="70" style="vertical-align: middle;" alt="Luffy" />
     <span style="vertical-align: middle; margin: 0 10px;">Dev Spellbook</span>
     <img src="resources/itachi_mirrored.gif" height="65" width="65" style="vertical-align: middle;" alt="Itachi" />
 </h2>
