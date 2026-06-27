@@ -19,7 +19,7 @@
 <table border="0">
   <tr>
     <td width="120" align="center" valign="middle">
-      <img src="resources/new/duck_fire.gif" width="105" alt="Duck Fire" />
+      <img src="resources/memes/duck_fire.gif" width="105" alt="Duck Fire" />
     </td>
     <td valign="middle">
       I write things — sometimes it's stories and fiction, other times it's Python scripts 🐍. Right now, I'm diving deeper into open-source work and learning my way around Rust! 🦀
@@ -30,13 +30,27 @@
 <table border="0">
   <tr>
     <td width="110" align="center" valign="middle">
-      <img src="resources/new/play.gif" width="95" alt="Play" />
+      <img src="resources/gaming/play.gif" width="95" alt="Play" />
     </td>
     <td valign="middle">
       When I'm not typing away at code or drafts, I'm usually lost in a video game 🎮, catching up on anime 🍿, re-reading Harry Potter ⚡, or re-watching John Wick 🕶️.
     </td>
     <td width="110" align="center" valign="middle">
-      <img src="resources/new/discord_anger.gif" width="95" alt="Discord Anger" />
+      <img src="resources/memes/discord_anger.gif" width="95" alt="Discord Anger" />
+    </td>
+  </tr>
+</table>
+
+<table border="0">
+  <tr>
+    <td width="110" align="center" valign="middle">
+      <img src="resources/harry_potter/hogwarts_letter.gif" width="95" alt="Hogwarts Letter" />
+    </td>
+    <td valign="middle">
+      ✉️ Like any true Potterhead, I spent years waiting for my Hogwarts acceptance letter to arrive by owl 🦉. When it never showed up, I decided to craft my own magic here instead — turning ideas into software and stories! 🪄✨
+    </td>
+    <td width="110" align="center" valign="middle">
+      <img src="resources/harry_potter/albus_clap.gif" width="95" alt="Albus Dumbledore Clapping" />
     </td>
   </tr>
 </table>
@@ -47,7 +61,7 @@
       💬 Want to discuss writing tips, anime recommendations, or collaborate on tech projects? Feel free to send an owl 🦉 over <a href="https://github.com/kshanxs/kshanxs/issues">to my GitHub issues page</a>! 📨
     </td>
     <td width="120" align="center" valign="middle">
-      <img src="resources/new/cat_meme.gif" width="105" alt="Cat Meme" />
+      <img src="resources/memes/cat_meme.gif" width="105" alt="Cat Meme" />
     </td>
   </tr>
 </table>
@@ -61,9 +75,9 @@
 <hr/>
 
 <h2 align="center">
-    <img src="resources/new/spell book.gif" height="75" width="70" style="vertical-align: middle;" alt="Spell Book" />
+    <img src="resources/harry_potter/spell_book.gif" height="75" width="70" style="vertical-align: middle;" alt="Spell Book" />
     <span style="vertical-align: middle; margin: 0 10px;">Dev Spellbook</span>
-    <img src="resources/new/love potion.gif" height="65" width="65" style="vertical-align: middle;" alt="Love Potion" />
+    <img src="resources/harry_potter/love_potion.gif" height="65" width="65" style="vertical-align: middle;" alt="Love Potion" />
 </h2>
 <br/>
 
@@ -73,16 +87,16 @@
       <img src="https://skillicons.dev/icons?i=apple,bash,cpp,py,fastapi,anaconda,rust,bun,nodejs,npm,react,ts,vite,nextjs,vercel,git,github,githubactions,supabase,postgres,mongodb,mysql,docker,ubuntu,postman,cloudflare,md&perline=9" alt="Programming languages and frameworks" />
     </td>
     <td width="140" align="center" valign="middle">
-      <img src="resources/new/snape_lie.gif" width="120" alt="Snape" />
+      <img src="https://dojo-proxy-three.vercel.app/api/dojo?type=wizard" width="120" alt="Wizard Professor" />
     </td>
   </tr>
 </table>
 <hr>
 
 <h2 align="center">
-    <img src="resources/sonic.gif" height="40" width="40" style="vertical-align: middle;" alt="Sonic" />
+    <img src="resources/gaming/sonic.gif" height="40" width="40" style="vertical-align: middle;" alt="Sonic" />
     <span style="vertical-align: middle; margin: 0 10px;">Arcade</span>
-    <img src="resources/pikachu.gif" height="40" width="40" style="vertical-align: middle;" alt="Pikachu" />
+    <img src="resources/gaming/pikachu.gif" height="40" width="40" style="vertical-align: middle;" alt="Pikachu" />
 </h2>
 <div align="center">
 <picture data-importer="pacman">
@@ -111,7 +125,7 @@
 <table border="0">
   <tr>
     <td width="150" align="center" valign="middle">
-      <img src="resources/new/miku.gif" width="130" alt="Hatsune Miku" />
+      <img src="resources/anime/miku.gif" width="130" alt="Hatsune Miku" />
     </td>
     <td valign="middle">
       Thanks for stopping by! Words and code are, in my opinion, our most inexhaustible source of magic capable of drafting intricate worlds and building software out of thin air. Whether you want to collaborate on open-source projects or brainstorm creative ideas, feel free to reach out. Until next time, mischief managed! ⚡🪄
