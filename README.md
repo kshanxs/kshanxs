@@ -15,28 +15,41 @@
 
 <h3 align="center">Writing codes and stories</h3>
 
-<div align="center">
+<table border="0">
+  <tr>
+    <td width="90" align="center" valign="middle">
+      <img src="resources/new/duck_fire.gif" width="80" alt="Duck Fire" />
+    </td>
+    <td valign="middle">
+      I write things — sometimes it's stories and fiction, other times it's Python scripts 🐍. Right now, I'm also learning my way around Rust! 🦀
+    </td>
+  </tr>
+</table>
 
-  <p align="left" style="clear: both;">
-    <img align="left" src="resources/new/duck_fire.gif" width="90" hspace="12" alt="Duck Fire" />
-    I write things — sometimes it's stories and fiction, other times it's Python scripts 🐍. Right now, I'm also learning my way around Rust! 🦀
-  </p>
-  <br/>
+<table border="0">
+  <tr>
+    <td width="80" align="center" valign="middle">
+      <img src="resources/new/play.gif" width="70" alt="Play" />
+    </td>
+    <td valign="middle">
+      When I'm not typing away at code or drafts, I'm usually lost in a video game 🎮, catching up on anime 🍿, re-reading Harry Potter ⚡, or re-watching John Wick 🕶️.
+    </td>
+    <td width="80" align="center" valign="middle">
+      <img src="resources/new/discord_anger.gif" width="70" alt="Discord Anger" />
+    </td>
+  </tr>
+</table>
 
-  <p align="left" style="clear: both;">
-    <img align="left" src="resources/new/play.gif" width="75" hspace="12" alt="Play" />
-    <img align="right" src="resources/new/discord_anger.gif" width="75" hspace="12" alt="Discord Anger" />
-    When I'm not typing away at code or drafts, I'm usually lost in a video game 🎮, catching up on anime 🍿, re-reading Harry Potter ⚡, or re-watching John Wick 🕶️.
-  </p>
-  <br/>
-
-  <p align="left" style="clear: both;">
-    <img align="right" src="resources/new/cat_meme.gif" width="85" hspace="12" alt="Cat Meme" />
-    💬 Want to discuss writing tips, anime recommendations, or just talk tech? Send an owl 🦉 <a href="https://github.com/kshanxs/kshanxs/issues">to my GitHub issues page</a>! 📨
-  </p>
-  <br clear="both"/>
-
-</div>
+<table border="0">
+  <tr>
+    <td valign="middle">
+      💬 Want to discuss writing tips, anime recommendations, or just talk tech? Send an owl 🦉 <a href="https://github.com/kshanxs/kshanxs/issues">to my GitHub issues page</a>! 📨
+    </td>
+    <td width="90" align="center" valign="middle">
+      <img src="resources/new/cat_meme.gif" width="80" alt="Cat Meme" />
+    </td>
+  </tr>
+</table>
 
 <br>
 <div align="center">
@@ -88,10 +101,13 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <img align="left" src="resources/new/miku.gif" width="110" hspace="15" style="margin-right: 15px; margin-bottom: 5px;" alt="Hatsune Miku" />
-  <p align="left">
-    Thanks for stopping by! Words and code are, in my opinion, our most inexhaustible source of magic capable of drafting intricate worlds and building software out of thin air. Whether you want to collaborate on open-source projects or brainstorm creative ideas, feel free to reach out. Until next time, mischief managed! ⚡🪄
-  </p>
-</div>
-<br clear="both"/>
+<table border="0">
+  <tr>
+    <td width="120" align="center" valign="middle">
+      <img src="resources/new/miku.gif" width="100" alt="Hatsune Miku" />
+    </td>
+    <td valign="middle">
+      Thanks for stopping by! Words and code are, in my opinion, our most inexhaustible source of magic capable of drafting intricate worlds and building software out of thin air. Whether you want to collaborate on open-source projects or brainstorm creative ideas, feel free to reach out. Until next time, mischief managed! ⚡🪄
+    </td>
+  </tr>
+</table>
