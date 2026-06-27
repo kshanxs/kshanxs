@@ -111,7 +111,7 @@
 <table border="0">
   <tr>
     <td width="150" align="center" valign="middle">
-      <img src="resources/new/miku.gif" width="130" alt="Hatsune Miku" />
+      <img src="resources/new/you_are_a_wizard.gif" width="130" alt="You Are A Wizard" />
     </td>
     <td valign="middle">
       Thanks for stopping by! Words and code are, in my opinion, our most inexhaustible source of magic capable of drafting intricate worlds and building software out of thin air. Whether you want to collaborate on open-source projects or brainstorm creative ideas, feel free to reach out. Until next time, mischief managed! ⚡🪄
