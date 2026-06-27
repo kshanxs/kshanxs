@@ -106,28 +106,6 @@
   <img src="https://streak-stats.demolab.com?user=kshanxs&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 <br/>
-
-<h3 align="center">⚔️ Hall of Fame ⚔️</h3>
-<table border="0" align="center">
-  <tr>
-    <td width="120" align="center" valign="middle">
-      <img src="resources/new/luffy.gif" width="85" alt="Luffy" /><br/>
-      <sub><b>Monkey D. Luffy</b></sub>
-    </td>
-    <td width="120" align="center" valign="middle">
-      <img src="resources/itachi_mirrored.gif" width="75" alt="Itachi" /><br/>
-      <sub><b>Itachi Uchiha</b></sub>
-    </td>
-    <td width="120" align="center" valign="middle">
-      <img src="resources/new/naruto.gif" width="85" alt="Naruto" /><br/>
-      <sub><b>Naruto Uzumaki</b></sub>
-    </td>
-    <td width="120" align="center" valign="middle">
-      <img src="resources/new/nezuko.gif" width="80" alt="Nezuko" /><br/>
-      <sub><b>Nezuko Kamado</b></sub>
-    </td>
-  </tr>
-</table>
 <hr/>
 
 <table border="0">
