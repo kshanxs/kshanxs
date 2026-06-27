@@ -61,9 +61,9 @@
 <hr/>
 
 <h2 align="center">
-    <img src="resources/new/luffy.gif" height="75" width="70" style="vertical-align: middle;" alt="Luffy" />
+    <img src="resources/new/spell book.gif" height="75" width="70" style="vertical-align: middle;" alt="Spell Book" />
     <span style="vertical-align: middle; margin: 0 10px;">Dev Spellbook</span>
-    <img src="resources/itachi_mirrored.gif" height="65" width="65" style="vertical-align: middle;" alt="Itachi" />
+    <img src="resources/new/love potion.gif" height="65" width="65" style="vertical-align: middle;" alt="Love Potion" />
 </h2>
 <br/>
 
@@ -95,10 +95,9 @@
 <hr/>
 
 <h2 align="center">
-    <!-- Sized symmetrically to 60x60 -->
-    <img src="resources/naruto_rage.gif" height="70" width="60" style="vertical-align: middle;" alt="Naruto" />
+    <img src="https://dojo-proxy-three.vercel.app/api/dojo?side=left" height="65" style="vertical-align: middle;" alt="Dojo Left" />
     <span style="vertical-align: middle; margin: 0 10px;">私の道場 (My Dojo)</span>
-    <img src="resources/goku.gif" height="60" width="50" style="vertical-align: middle;" alt="Goku" />
+    <img src="https://dojo-proxy-three.vercel.app/api/dojo?side=right" height="65" style="vertical-align: middle;" alt="Dojo Right" />
 </h2>
 <br>
 <div data-importer="stats" align="center">
@@ -107,6 +106,28 @@
   <img src="https://streak-stats.demolab.com?user=kshanxs&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 <br/>
+
+<h3 align="center">⚔️ Hall of Fame ⚔️</h3>
+<table border="0" align="center">
+  <tr>
+    <td width="120" align="center" valign="middle">
+      <img src="resources/new/luffy.gif" width="85" alt="Luffy" /><br/>
+      <sub><b>Monkey D. Luffy</b></sub>
+    </td>
+    <td width="120" align="center" valign="middle">
+      <img src="resources/itachi_mirrored.gif" width="75" alt="Itachi" /><br/>
+      <sub><b>Itachi Uchiha</b></sub>
+    </td>
+    <td width="120" align="center" valign="middle">
+      <img src="resources/new/naruto.gif" width="85" alt="Naruto" /><br/>
+      <sub><b>Naruto Uzumaki</b></sub>
+    </td>
+    <td width="120" align="center" valign="middle">
+      <img src="resources/new/nezuko.gif" width="80" alt="Nezuko" /><br/>
+      <sub><b>Nezuko Kamado</b></sub>
+    </td>
+  </tr>
+</table>
 <hr/>
 
 <table border="0">
