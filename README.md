@@ -17,8 +17,8 @@
 
 <table border="0">
   <tr>
-    <td width="90" align="center" valign="middle">
-      <img src="resources/new/duck_fire.gif" width="80" alt="Duck Fire" />
+    <td width="120" align="center" valign="middle">
+      <img src="resources/new/duck_fire.gif" width="105" alt="Duck Fire" />
     </td>
     <td valign="middle">
       I write things — sometimes it's stories and fiction, other times it's Python scripts 🐍. Right now, I'm also learning my way around Rust! 🦀
@@ -28,14 +28,14 @@
 
 <table border="0">
   <tr>
-    <td width="80" align="center" valign="middle">
-      <img src="resources/new/play.gif" width="70" alt="Play" />
+    <td width="110" align="center" valign="middle">
+      <img src="resources/new/play.gif" width="95" alt="Play" />
     </td>
     <td valign="middle">
       When I'm not typing away at code or drafts, I'm usually lost in a video game 🎮, catching up on anime 🍿, re-reading Harry Potter ⚡, or re-watching John Wick 🕶️.
     </td>
-    <td width="80" align="center" valign="middle">
-      <img src="resources/new/discord_anger.gif" width="70" alt="Discord Anger" />
+    <td width="110" align="center" valign="middle">
+      <img src="resources/new/discord_anger.gif" width="95" alt="Discord Anger" />
     </td>
   </tr>
 </table>
@@ -45,8 +45,8 @@
     <td valign="middle">
       💬 Want to discuss writing tips, anime recommendations, or just talk tech? Send an owl 🦉 <a href="https://github.com/kshanxs/kshanxs/issues">to my GitHub issues page</a>! 📨
     </td>
-    <td width="90" align="center" valign="middle">
-      <img src="resources/new/cat_meme.gif" width="80" alt="Cat Meme" />
+    <td width="120" align="center" valign="middle">
+      <img src="resources/new/cat_meme.gif" width="105" alt="Cat Meme" />
     </td>
   </tr>
 </table>
@@ -103,8 +103,8 @@
 
 <table border="0">
   <tr>
-    <td width="120" align="center" valign="middle">
-      <img src="resources/new/miku.gif" width="100" alt="Hatsune Miku" />
+    <td width="150" align="center" valign="middle">
+      <img src="resources/new/miku.gif" width="130" alt="Hatsune Miku" />
     </td>
     <td valign="middle">
       Thanks for stopping by! Words and code are, in my opinion, our most inexhaustible source of magic capable of drafting intricate worlds and building software out of thin air. Whether you want to collaborate on open-source projects or brainstorm creative ideas, feel free to reach out. Until next time, mischief managed! ⚡🪄
