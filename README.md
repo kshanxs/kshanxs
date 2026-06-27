@@ -5,10 +5,10 @@
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
         <picture>
             <!-- Dark Mode: Light ice-blue typing SVG -->
-            <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=40&pause=1000&color=CAF0F8&center=true&vCenter=true&width=465&lines=Hello+%F0%9F%91%8B%F0%9F%8F%BC;Shubhanshu+this+side" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=40&pause=1000&color=CAF0F8&center=true&vCenter=true&width=465&lines=Hello+👋🏼;Shubhanshu+this+side" />
             <!-- Light Mode: Dark teal/blue typing SVG -->
-            <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=40&pause=1000&color=0077B6&center=true&vCenter=true&width=465&lines=Hello+%F0%9F%91%8B%F0%9F%8F%BC;Shubhanshu+this+side" />
-            <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=40&pause=1000&color=0077B6&center=true&vCenter=true&width=465&lines=Hello+%F0%9F%91%8B%F0%9F%8F%BC;Shubhanshu+this+side" alt="Typing SVG" />
+            <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=40&pause=1000&color=0077B6&center=true&vCenter=true&width=465&lines=Hello+👋🏼;Shubhanshu+this+side" />
+            <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=40&pause=1000&color=0077B6&center=true&vCenter=true&width=465&lines=Hello+👋🏼;Shubhanshu+this+side" alt="Typing SVG" />
         </picture>
     </a>
 </h1>
