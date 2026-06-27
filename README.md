@@ -40,7 +40,7 @@
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,ts,nodejs,react,tailwind,vscode,git,github,nextjs,vercel,mongodb,docker,anaconda,mysql&perline=9" alt="Programming languages and frameworks" />
+    <img src="https://skillicons.dev/icons?i=apple,bash,cpp,py,fastapi,anaconda,rust,bun,ts,nodejs,npm,react,vite,git,github,githubactions,nextjs,vercel,supabase,postgres,mongodb,mysql,docker,postman,cloudflare,ubuntu,md&perline=9" alt="Programming languages and frameworks" />
 </div>
 <hr>
 
