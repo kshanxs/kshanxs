@@ -1,17 +1,11 @@
-<div data-importer="border">
-  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" alt="Header Banner" />
+<div data-importer="border" align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" alt="Header Banner" />
 </div>
-<h1 align="center">
-    <a href="https://github.com/DenverCoder1/readme-typing-svg">
-        <picture>
-            <!-- Dark Mode: Light ice-blue typing SVG -->
-            <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=40&pause=1000&color=CAF0F8&center=true&vCenter=true&width=465&lines=Hello+%F0%9F%91%8B%F0%9F%8F%BC;Shubhanshu+this+side" />
-            <!-- Light Mode: Dark teal/blue typing SVG -->
-            <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=40&pause=1000&color=0077B6&center=true&vCenter=true&width=465&lines=Hello+%F0%9F%91%8B%F0%9F%8F%BC;Shubhanshu+this+side" />
-            <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=40&pause=1000&color=0077B6&center=true&vCenter=true&width=465&lines=Hello+%F0%9F%91%8B%F0%9F%8F%BC;Shubhanshu+this+side" alt="Typing SVG" />
-        </picture>
-    </a>
-</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&weight=500&size=32&pause=1000&color=0077B6&center=true&vCenter=true&width=360&lines=Hello+%F0%9F%91%8B%F0%9F%8F%BC;Shubhanshu+this+side" alt="Typing SVG" />
+  </a>
+</p>
 
 <h3 align="center">Writing codes and stories</h3>
 
