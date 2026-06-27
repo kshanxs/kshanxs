@@ -17,28 +17,23 @@
 
 <div align="center">
 
-  <!-- Row 1: Duck Fire (Top Left) + Paragraph 1 -->
-  <div>
-    <img align="left" src="resources/new/duck_fire.gif" width="90" hspace="15" style="margin-right: 15px; margin-bottom: 5px;" alt="Duck Fire" />
+  <p align="left" style="clear: both;">
+    <img align="left" src="resources/new/duck_fire.gif" width="90" hspace="12" alt="Duck Fire" />
     I write things — sometimes it's stories and fiction, other times it's Python scripts 🐍. Right now, I'm also learning my way around Rust! 🦀
-  </div>
-  <br clear="both"/>
+  </p>
   <br/>
 
-  <!-- Row 2: Play (Left) + Paragraph 2 + Discord Anger Mirrored (Right) -->
-  <div>
-    <img align="left" src="resources/new/play.gif" width="75" hspace="15" style="margin-right: 15px; margin-bottom: 5px;" alt="Play" />
-    <img align="right" src="resources/new/discord_anger.gif" width="75" hspace="15" style="margin-left: 15px; margin-bottom: 5px;" alt="Discord Anger" />
+  <p align="left" style="clear: both;">
+    <img align="left" src="resources/new/play.gif" width="75" hspace="12" alt="Play" />
+    <img align="right" src="resources/new/discord_anger.gif" width="75" hspace="12" alt="Discord Anger" />
     When I'm not typing away at code or drafts, I'm usually lost in a video game 🎮, catching up on anime 🍿, re-reading Harry Potter ⚡, or re-watching John Wick 🕶️.
-  </div>
-  <br clear="both"/>
+  </p>
   <br/>
 
-  <!-- Row 3: Paragraph 3 + Cat Meme (Bottom Right) -->
-  <div>
-    <img align="right" src="resources/new/cat_meme.gif" width="85" hspace="15" style="margin-left: 15px; margin-bottom: 5px;" alt="Cat Meme" />
+  <p align="left" style="clear: both;">
+    <img align="right" src="resources/new/cat_meme.gif" width="85" hspace="12" alt="Cat Meme" />
     💬 Want to discuss writing tips, anime recommendations, or just talk tech? Send an owl 🦉 <a href="https://github.com/kshanxs/kshanxs/issues">to my GitHub issues page</a>! 📨
-  </div>
+  </p>
   <br clear="both"/>
 
 </div>
