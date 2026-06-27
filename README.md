@@ -1,5 +1,5 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="width: 100%;" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" alt="Header Banner" />
 </div>
 <h1 align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -16,11 +16,31 @@
 <h3 align="center">Writing codes and stories</h3>
 
 <div align="center">
-  Hey there! I write things — sometimes it's stories and fiction, other times it's Python scripts 🐍. Right now, I'm also learning my way around Rust! 🦀
-  <br><br>
-  When I'm not typing away at code or drafts, I'm usually lost in a video game 🎮, catching up on anime 🍿, re-reading Harry Potter ⚡, or re-watching John Wick 🕶️.
-  <br><br>
-  💬 Want to discuss writing tips, anime recommendations, or just talk tech? Send an owl 🦉 <a href="https://github.com/kshanxs/kshanxs/issues">to my GitHub issues page</a>! 📨
+
+  <!-- Row 1: Duck Fire (Top Left) + Paragraph 1 -->
+  <div>
+    <img align="left" src="resources/new/duck_fire.gif" width="90" hspace="15" style="margin-right: 15px; margin-bottom: 5px;" alt="Duck Fire" />
+    I write things — sometimes it's stories and fiction, other times it's Python scripts 🐍. Right now, I'm also learning my way around Rust! 🦀
+  </div>
+  <br clear="both"/>
+  <br/>
+
+  <!-- Row 2: Play (Left) + Paragraph 2 + Discord Anger Mirrored (Right) -->
+  <div>
+    <img align="left" src="resources/new/play.gif" width="75" hspace="15" style="margin-right: 15px; margin-bottom: 5px;" alt="Play" />
+    <img align="right" src="resources/new/discord_anger.gif" width="75" hspace="15" style="margin-left: 15px; margin-bottom: 5px;" alt="Discord Anger" />
+    When I'm not typing away at code or drafts, I'm usually lost in a video game 🎮, catching up on anime 🍿, re-reading Harry Potter ⚡, or re-watching John Wick 🕶️.
+  </div>
+  <br clear="both"/>
+  <br/>
+
+  <!-- Row 3: Paragraph 3 + Cat Meme (Bottom Right) -->
+  <div>
+    <img align="right" src="resources/new/cat_meme.gif" width="85" hspace="15" style="margin-left: 15px; margin-bottom: 5px;" alt="Cat Meme" />
+    💬 Want to discuss writing tips, anime recommendations, or just talk tech? Send an owl 🦉 <a href="https://github.com/kshanxs/kshanxs/issues">to my GitHub issues page</a>! 📨
+  </div>
+  <br clear="both"/>
+
 </div>
 
 <br>
@@ -32,24 +52,23 @@
 <hr/>
 
 <h2 align="center">
-    <!-- Balanced height/width to 80x80 and vertically aligned -->
-    <img src="resources/ace.gif" height="90" width="80" style="vertical-align: middle;" alt="Ace" />
+    <img src="resources/new/luffy.gif" height="65" width="65" style="vertical-align: middle;" alt="Luffy" />
     <span style="vertical-align: middle; margin: 0 10px;">Dev Spellbook</span>
-    <img src="resources/itachi.gif" height="65" width="50" style="vertical-align: middle;" alt="Itachi" />
+    <img src="resources/itachi_mirrored.gif" height="65" width="65" style="vertical-align: middle;" alt="Itachi" />
 </h2>
 <br/>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=apple,bash,cpp,py,fastapi,anaconda,rust,bun,ts,nodejs,npm,react,vite,git,github,githubactions,nextjs,vercel,supabase,postgres,mongodb,mysql,docker,postman,cloudflare,ubuntu,md&perline=9" alt="Programming languages and frameworks" />
+    <img src="https://skillicons.dev/icons?i=apple,bash,cpp,py,fastapi,anaconda,rust,bun,nodejs,npm,react,ts,vite,nextjs,vercel,git,github,githubactions,supabase,postgres,mongodb,mysql,docker,ubuntu,postman,cloudflare,md&perline=9" alt="Programming languages and frameworks" />
 </div>
 <hr>
 
-<div align="center">
-  <h2>
+<h2 align="center">
     <img src="resources/sonic.gif" height="40" width="40" style="vertical-align: middle;" alt="Sonic" />
     <span style="vertical-align: middle; margin: 0 10px;">Arcade</span>
     <img src="resources/pikachu.gif" height="40" width="40" style="vertical-align: middle;" alt="Pikachu" />
-  </h2>
+</h2>
+<div align="center">
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kshanxs/kshanxs/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kshanxs/kshanxs/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
@@ -61,9 +80,9 @@
 
 <h2 align="center">
     <!-- Sized symmetrically to 60x60 -->
-    <img src="resources/naruto_rage.gif" height="60" width="60" style="vertical-align: middle;" alt="Naruto" />
+    <img src="resources/naruto_rage.gif" height="70" width="60" style="vertical-align: middle;" alt="Naruto" />
     <span style="vertical-align: middle; margin: 0 10px;">私の道場 (My Dojo)</span>
-    <img src="resources/goku.gif" height="60" width="60" style="vertical-align: middle;" alt="Goku" />
+    <img src="resources/goku.gif" height="60" width="50" style="vertical-align: middle;" alt="Goku" />
 </h2>
 <br>
 <div data-importer="stats" align="center">
@@ -73,3 +92,11 @@
 </div>
 <br/>
 <hr/>
+
+<div align="center">
+  <img align="left" src="resources/new/miku.gif" width="110" hspace="15" style="margin-right: 15px; margin-bottom: 5px;" alt="Hatsune Miku" />
+  <p align="left">
+    Thanks for stopping by! Words and code are, in my opinion, our most inexhaustible source of magic capable of drafting intricate worlds and building software out of thin air. Whether you want to collaborate on open-source projects or brainstorm creative ideas, feel free to reach out. Until next time, mischief managed! ⚡🪄
+  </p>
+</div>
+<br clear="both"/>
