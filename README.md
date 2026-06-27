@@ -67,9 +67,16 @@
 </h2>
 <br/>
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=apple,bash,cpp,py,fastapi,anaconda,rust,bun,nodejs,npm,react,ts,vite,nextjs,vercel,git,github,githubactions,supabase,postgres,mongodb,mysql,docker,ubuntu,postman,cloudflare,md&perline=9" alt="Programming languages and frameworks" />
-</div>
+<table border="0" align="center">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://skillicons.dev/icons?i=apple,bash,cpp,py,fastapi,anaconda,rust,bun,nodejs,npm,react,ts,vite,nextjs,vercel,git,github,githubactions,supabase,postgres,mongodb,mysql,docker,ubuntu,postman,cloudflare,md&perline=9" alt="Programming languages and frameworks" />
+    </td>
+    <td width="140" align="center" valign="middle">
+      <img src="resources/new/snape_lie.gif" width="120" alt="Snape" />
+    </td>
+  </tr>
+</table>
 <hr>
 
 <h2 align="center">
