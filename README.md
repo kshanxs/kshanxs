@@ -84,19 +84,11 @@
 </div>
 <hr/>
 
-<table border="0" align="center">
-  <tr>
-    <td align="center" valign="middle">
-      <img src="resources/harry_potter/spell_book.gif" height="45" alt="Spell Book" />
-    </td>
-    <td align="center" valign="middle" style="white-space: nowrap; padding: 0 10px;">
-      <span style="font-size: 1.4em; font-weight: bold;">Dev Spellbook</span>
-    </td>
-    <td align="center" valign="middle">
-      <img src="resources/harry_potter/love_potion.gif" height="45" alt="Love Potion" />
-    </td>
-  </tr>
-</table>
+<h2 align="center">
+    <img src="resources/harry_potter/spell_book.gif" height="45" style="vertical-align: middle;" alt="Spell Book" />
+    <span style="vertical-align: middle; margin: 0 10px;">Dev Spellbook</span>
+    <img src="resources/harry_potter/love_potion.gif" height="45" style="vertical-align: middle;" alt="Love Potion" />
+</h2>
 <br/>
 
 <table border="0" align="center">
@@ -111,19 +103,11 @@
 </table>
 <hr>
 
-<table border="0" align="center">
-  <tr>
-    <td align="center" valign="middle">
-      <img src="resources/gaming/sonic.gif" height="35" alt="Sonic" />
-    </td>
-    <td align="center" valign="middle" style="white-space: nowrap; padding: 0 10px;">
-      <span style="font-size: 1.4em; font-weight: bold;">Arcade</span>
-    </td>
-    <td align="center" valign="middle">
-      <img src="resources/gaming/pikachu.gif" height="35" alt="Pikachu" />
-    </td>
-  </tr>
-</table>
+<h2 align="center">
+    <img src="resources/gaming/sonic.gif" height="35" width="35" style="vertical-align: middle;" alt="Sonic" />
+    <span style="vertical-align: middle; margin: 0 10px;">Arcade</span>
+    <img src="resources/gaming/pikachu.gif" height="35" width="35" style="vertical-align: middle;" alt="Pikachu" />
+</h2>
 <div align="center">
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kshanxs/kshanxs/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
@@ -134,19 +118,11 @@
 </div>
 <hr/>
 
-<table border="0" align="center">
-  <tr>
-    <td align="center" valign="middle">
-      <img src="https://readme-asset-proxy-three.vercel.app/api?side=left&v=5" height="45" alt="Dojo Left" />
-    </td>
-    <td align="center" valign="middle" style="white-space: nowrap; padding: 0 10px;">
-      <span style="font-size: 1.4em; font-weight: bold;">私の道場 (My Dojo)</span>
-    </td>
-    <td align="center" valign="middle">
-      <img src="https://readme-asset-proxy-three.vercel.app/api?side=right&v=5" height="45" alt="Dojo Right" />
-    </td>
-  </tr>
-</table>
+<h2 align="center">
+    <img src="https://readme-asset-proxy-three.vercel.app/api?side=left&v=5" height="45" style="vertical-align: middle;" alt="Dojo Left" />
+    <span style="vertical-align: middle; margin: 0 10px;">私の道場 (My Dojo)</span>
+    <img src="https://readme-asset-proxy-three.vercel.app/api?side=right&v=5" height="45" style="vertical-align: middle;" alt="Dojo Right" />
+</h2>
 <br>
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/kshanxs/kshanxs/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
