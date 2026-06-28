@@ -85,9 +85,9 @@
 <hr/>
 
 <h2 align="center">
-    <img src="resources/harry_potter/spell_book.gif" height="45" style="vertical-align: middle;" alt="Spell Book" />
-    <span style="vertical-align: middle; margin: 0 10px;">Dev Spellbook</span>
-    <img src="resources/harry_potter/love_potion.gif" height="45" style="vertical-align: middle;" alt="Love Potion" />
+    <img src="resources/harry_potter/spell_book.gif" height="65" align="middle" alt="Spell Book" />
+    <span style="margin: 0 10px;">Dev Spellbook</span>
+    <img src="resources/harry_potter/love_potion.gif" height="55" align="middle" alt="Love Potion" />
 </h2>
 <br/>
 
@@ -104,9 +104,9 @@
 <hr>
 
 <h2 align="center">
-    <img src="resources/gaming/sonic.gif" height="35" width="35" style="vertical-align: middle;" alt="Sonic" />
-    <span style="vertical-align: middle; margin: 0 10px;">Arcade</span>
-    <img src="resources/gaming/pikachu.gif" height="35" width="35" style="vertical-align: middle;" alt="Pikachu" />
+    <img src="resources/gaming/sonic.gif" height="40" width="40" align="middle" alt="Sonic" />
+    <span style="margin: 0 10px;">Arcade</span>
+    <img src="resources/gaming/pikachu.gif" height="40" width="40" align="middle" alt="Pikachu" />
 </h2>
 <div align="center">
 <picture data-importer="pacman">
@@ -119,9 +119,9 @@
 <hr/>
 
 <h2 align="center">
-    <img src="https://readme-asset-proxy-three.vercel.app/api?side=left&v=5" height="45" style="vertical-align: middle;" alt="Dojo Left" />
-    <span style="vertical-align: middle; margin: 0 10px;">私の道場 (My Dojo)</span>
-    <img src="https://readme-asset-proxy-three.vercel.app/api?side=right&v=5" height="45" style="vertical-align: middle;" alt="Dojo Right" />
+    <img src="https://readme-asset-proxy-three.vercel.app/api?side=left&v=5" height="65" align="middle" alt="Dojo Left" />
+    <span style="margin: 0 10px;">私の道場 (My Dojo)</span>
+    <img src="https://readme-asset-proxy-three.vercel.app/api?side=right&v=5" height="65" align="middle" alt="Dojo Right" />
 </h2>
 <br>
 <div data-importer="stats" align="center">
