@@ -120,7 +120,7 @@
 
 <h2 align="center">
     <img src="https://readme-asset-proxy-three.vercel.app/api?side=left&v=5" height="65" align="middle" alt="Dojo Left" />
-    <span style="margin: 0 10px;">私の道場 (My Dojo)</span>
+    <span style="margin: 0 10px;">道場 (My Dojo)</span>
     <img src="https://readme-asset-proxy-three.vercel.app/api?side=right&v=5" height="65" align="middle" alt="Dojo Right" />
 </h2>
 <br>
