@@ -54,13 +54,13 @@
 <table border="0">
   <tr>
     <td width="110" align="center" valign="middle">
-      <img src="resources/harry_potter/hogwarts_letter.gif" width="95" alt="Hogwarts Letter" />
+      <img src="resources/harry_potter/hogwarts_letter.gif" width="110" alt="Hogwarts Letter" />
     </td>
     <td valign="middle">
       ✉️ Like any true Potterhead, I spent years waiting for my Hogwarts acceptance letter to arrive by owl 🦉. When it never showed up, I decided to craft my own magic here instead — turning ideas into software and stories! 🪄✨
     </td>
     <td width="110" align="center" valign="middle">
-      <img src="https://readme-asset-proxy-three.vercel.app/api?type=hogwarts&v=1" width="95" alt="Hogwarts Animation" />
+      <img src="https://readme-asset-proxy-three.vercel.app/api?type=hogwarts&v=1" width="110" alt="Hogwarts Animation" />
     </td>
   </tr>
 </table>
