@@ -60,7 +60,7 @@
       ✉️ Like any true Potterhead, I spent years waiting for my Hogwarts acceptance letter to arrive by owl 🦉. When it never showed up, I decided to craft my own magic here instead — turning ideas into software and stories! 🪄✨
     </td>
     <td width="110" align="center" valign="middle">
-      <img src="https://readme-asset-proxy-three.vercel.app/api?type=hogwarts&v=1" width="110" alt="Hogwarts Animation" />
+      <img src="resources/harry_potter/albus_clap.gif" width="110" alt="Albus Dumbledore Clapping" />
     </td>
   </tr>
 </table>
@@ -119,9 +119,9 @@
 <hr/>
 
 <h2 align="center">
-    <img src="https://readme-asset-proxy-three.vercel.app/api?side=left&v=5" height="70" style="vertical-align: middle;" alt="Dojo Left" />
+    <img src="https://readme-asset-proxy-three.vercel.app/api?side=left&v=5" height="65" style="vertical-align: middle;" alt="Dojo Left" />
     <span style="vertical-align: middle; margin: 0 10px;">私の道場 (My Dojo)</span>
-    <img src="https://readme-asset-proxy-three.vercel.app/api?side=right&v=5" height="70" style="vertical-align: middle;" alt="Dojo Right" />
+    <img src="https://readme-asset-proxy-three.vercel.app/api?side=right&v=5" height="65" style="vertical-align: middle;" alt="Dojo Right" />
 </h2>
 <br>
 <div data-importer="stats" align="center">
