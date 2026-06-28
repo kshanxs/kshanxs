@@ -86,7 +86,7 @@
       <img src="https://skillicons.dev/icons?i=apple,bash,cpp,py,fastapi,anaconda,rust,bun,nodejs,npm,react,ts,vite,nextjs,vercel,git,github,githubactions,supabase,postgres,mongodb,mysql,docker,ubuntu,postman,cloudflare,md&perline=9" alt="Programming languages and frameworks" />
     </td>
     <td width="140" align="center" valign="middle">
-      <img src="https://readme-asset-proxy-three.vercel.app/api/dojo?type=wizard&v=2" width="120" alt="Wizard Professor" />
+      <img src="https://readme-asset-proxy-three.vercel.app/api?type=wizard&v=5" width="120" alt="Wizard Professor" />
     </td>
   </tr>
 </table>
@@ -108,9 +108,9 @@
 <hr/>
 
 <h2 align="center">
-    <img src="https://readme-asset-proxy-three.vercel.app/api/dojo?side=left&v=2" height="65" style="vertical-align: middle;" alt="Dojo Left" />
+    <img src="https://readme-asset-proxy-three.vercel.app/api?side=left&v=5" height="65" style="vertical-align: middle;" alt="Dojo Left" />
     <span style="vertical-align: middle; margin: 0 10px;">私の道場 (My Dojo)</span>
-    <img src="https://readme-asset-proxy-three.vercel.app/api/dojo?side=right&v=2" height="65" style="vertical-align: middle;" alt="Dojo Right" />
+    <img src="https://readme-asset-proxy-three.vercel.app/api?side=right&v=5" height="65" style="vertical-align: middle;" alt="Dojo Right" />
 </h2>
 <br>
 <div data-importer="stats" align="center">
