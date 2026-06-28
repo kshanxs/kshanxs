@@ -21,7 +21,18 @@
       <img src="resources/memes/duck_fire.gif" width="105" alt="Duck Fire" />
     </td>
     <td valign="middle">
-      I write things — sometimes it's stories and fiction, other times it's Python scripts 🐍. Right now, I'm diving deeper into open-source work and learning my way around Rust! 🦀
+      I bridge the gap between storytelling and software engineering — writing immersive fiction by day and clean Python or Rust systems by night. Currently focused on open-source contributions and mastering low-level programming! 🦀🐍
+    </td>
+  </tr>
+</table>
+
+<table border="0">
+  <tr>
+    <td valign="middle">
+      😮‍💨 <b>Honest Truth:</b> Some days, the code just wins. Whether I'm staring at a cryptic error for three hours or fixing one bug only to break four other things, tech can get exhausting. When I look completely done with my IDE, Genie steps in to guard my sanity until I recover!
+    </td>
+    <td width="120" align="center" valign="middle">
+      <img src="resources/harry_potter/leave_him_alone.gif" width="105" alt="Leave Him Alone" />
     </td>
   </tr>
 </table>
@@ -32,10 +43,10 @@
       <img src="resources/gaming/play.gif" width="95" alt="Play" />
     </td>
     <td valign="middle">
-      When I'm not typing away at code or drafts, I'm usually lost in a video game 🎮, catching up on anime 🍿, re-reading Harry Potter ⚡, or re-watching John Wick 🕶️.
+      When the keyboard goes quiet, I'm usually immersed in single-player RPGs 🎮, bingeing seasonal anime 🍿, or running back classic Harry Potter chapters and pure Baba Yaga action <b>(iykyk)</b>.
     </td>
     <td width="110" align="center" valign="middle">
-      <img src="resources/memes/discord_anger.gif" width="95" alt="Discord Anger" />
+      <img src="resources/memes/discord_anger.gif" width="95"  alt="Discord Anger" />
     </td>
   </tr>
 </table>
@@ -49,7 +60,7 @@
       ✉️ Like any true Potterhead, I spent years waiting for my Hogwarts acceptance letter to arrive by owl 🦉. When it never showed up, I decided to craft my own magic here instead — turning ideas into software and stories! 🪄✨
     </td>
     <td width="110" align="center" valign="middle">
-      <img src="resources/harry_potter/albus_clap.gif" width="95" alt="Albus Dumbledore Clapping" />
+      <img src="https://readme-asset-proxy-three.vercel.app/api?type=hogwarts&v=1" width="95" alt="Hogwarts Animation" />
     </td>
   </tr>
 </table>
@@ -108,9 +119,9 @@
 <hr/>
 
 <h2 align="center">
-    <img src="https://readme-asset-proxy-three.vercel.app/api?side=left&v=5" height="65" style="vertical-align: middle;" alt="Dojo Left" />
+    <img src="https://readme-asset-proxy-three.vercel.app/api?side=left&v=5" height="70" style="vertical-align: middle;" alt="Dojo Left" />
     <span style="vertical-align: middle; margin: 0 10px;">私の道場 (My Dojo)</span>
-    <img src="https://readme-asset-proxy-three.vercel.app/api?side=right&v=5" height="65" style="vertical-align: middle;" alt="Dojo Right" />
+    <img src="https://readme-asset-proxy-three.vercel.app/api?side=right&v=5" height="70" style="vertical-align: middle;" alt="Dojo Right" />
 </h2>
 <br>
 <div data-importer="stats" align="center">
@@ -124,10 +135,10 @@
 <table border="0">
   <tr>
     <td width="150" align="center" valign="middle">
-      <img src="resources/anime/miku.gif" width="130" alt="Hatsune Miku" />
+      <img src="resources/harry_potter/mischief_managed.gif" width="130" alt="Mischief Managed" />
     </td>
     <td valign="middle">
-      Thanks for stopping by! Words and code are, in my opinion, our most inexhaustible source of magic capable of drafting intricate worlds and building software out of thin air. Whether you want to collaborate on open-source projects or brainstorm creative ideas, feel free to reach out. Until next time, mischief managed! ⚡🪄
+      Thanks for stopping by! Words and code are our most inexhaustible source of magic — capable of building entire worlds out of thin air. Whether you're here to collaborate or just explore, feel free to reach out. Until next time, mischief managed! ⚡🪄
     </td>
   </tr>
 </table>
