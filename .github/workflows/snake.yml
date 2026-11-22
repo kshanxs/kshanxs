@@ -8,7 +8,13 @@ on:
 
   push:
     branches:
-    - main
+      - main
+    paths:
+      - .github/workflows/snake.yml
+
+concurrency:
+  group: snake-output
+  cancel-in-progress: true
 
 jobs:
   generate:
@@ -18,15 +24,16 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: generate snake.svg
-        uses: Platane/snk/svg-only@v3
+      - name: generate snake SVGs
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dark
+          outputs: |
+            dist/snake.svg?palette=github-dark
+            dist/snake-light.svg?palette=github-light
 
-
-      - name: push snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: push snake SVGs to the output branch
+        uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4 # v5.0.0
         with:
           target_branch: snake-output
           build_dir: dist

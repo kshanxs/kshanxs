@@ -8,7 +8,13 @@ on:
 
   push:
     branches:
-    - main
+      - main
+    paths:
+      - .github/workflows/languages.yml
+
+concurrency:
+  group: languages-output
+  cancel-in-progress: true
 
 jobs:
   generate:
@@ -19,16 +25,16 @@ jobs:
 
     steps:
       - name: generate languages.svg
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false
           path: dist/languages.svg
+          fail_on_error: true
           token: ${{ secrets.GITHUB_TOKEN }}
 
-
       - name: push languages.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4 # v5.0.0
         with:
           target_branch: languages-output
           build_dir: dist

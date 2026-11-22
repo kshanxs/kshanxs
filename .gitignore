@@ -1,4 +1,4 @@
 # Ignore Visual Studio Code specific files
 .vscode/
 .vscode/*
-.DS/Store/
+.DS_Store
